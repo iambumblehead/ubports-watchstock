@@ -1,6 +1,6 @@
 ### Ubports Watchstock
 
-![watchstock][0]![watchstock][1]
+![watchstock][1]
 
 web container for the web page https://watch-your-stock.herokuapp.com/
 
