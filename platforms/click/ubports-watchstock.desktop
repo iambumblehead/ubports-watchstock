@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ubports-watchstock
+Comment=web container for the web page https://watch-your-stock.herokuapp.com/
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=https?://*watch-your-stock.herokuapp.com/* https://watch-your-stock.herokuapp.com
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=./chart.png
+Name[en_US]=ubports-watchstock.desktop

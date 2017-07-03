@@ -1,0 +1,9 @@
+{
+  "name": "ubports-watchstock",
+  "description": "web container for the web page https://watch-your-stock.herokuapp.com/",
+  "author": "Chris <chris@bumblehead.com>",
+  "license" : "MIT",
+  "repository": "https://github.com/iambumblehead/ubports-watchstock",
+  "readmeFilename": "README.md",
+  "version": "1.0.0"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ubports-watchstock",
+  "description": "web container for the web page https://watch-your-stock.herokuapp.com/",
+  "architecture": "all",
+  "version": "1.0.0",
+  "maintainer": "chris <chris@bumblehead.com>",
+  "framework" : "ubuntu-sdk-15.04.5",  
+  "title": "ubports-watchstock",
+  "hooks": {
+    "ubports-watchstock": {
+      "apparmor": "ubports-watchstock.apparmor",
+      "desktop":  "ubports-watchstock.desktop"
+    }
+  }
+}
